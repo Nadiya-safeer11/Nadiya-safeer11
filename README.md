@@ -151,13 +151,14 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 
 
 ### 📈 Contribution Activity
+### 📈 Contribution Activity
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=NadiaSafeer&theme=default&date_format=j%20M%5B%20Y%5D">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Nadiya-safeer11&theme=default&date_format=j%20M%5B%20Y%5D">
 </p>
 
 <p align="center">
-  <a href="https://github.com/NadiaSafeer">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NadiaSafeer&area=true&hide_border=false">
+  <a href="https://github.com/Nadiya-safeer11">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nadiya-safeer11&area=true&hide_border=false">
   </a>
 </p>
 
