@@ -137,11 +137,10 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 
 ## 📂 Featured Projects  
 
-- 🔤 **Phonetics of Pahari English Learners** — Dataset & acoustic analysis scripts.  
-- 🧠 **ELT Gamification Toolkit** — Strategies & interactive tools for engaging language classrooms.  
-- 📊 **Corpus of Academic Acknowledgements** — Corpus-based study of gratitude in PhD theses.  
-- 🌍 **Multilingual Classrooms Strategies** — Resources & policy papers on inclusive L2 teaching in Pakistan.  
----
+- 🔤 [**Phonetics Vowel Counter**](https://github.com/Nadiya-safeer11/phonetics-vowel-counter) — Python-based vowel counting tool for phonetic data.  
+- 🧠 [**MT Evaluation Sample**](https://github.com/Nadiya-safeer11/mt-eval-sample) — Example scripts and resources for machine translation evaluation.  
+
+--
 
 ## 👩‍🏫 Teaching  
 
