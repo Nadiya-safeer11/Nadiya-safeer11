@@ -180,11 +180,7 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 - AI & NLP for Low-Resourced Languages (Urdu, Punjabi, Pahari)  
 - Digital Learning Strategies in ELT  
 - Intersections of Psychology, Culture, and Language Education
-## 📑 Certifications & Tests  
-
-- **IELTS Academic** *(25/06/2024 – 25/06/2026)*  
-  - Overall Bands: **6.0**  
-  - [View Result](https://ielts.idp.com/results/score)  
+ 
 ## 📑 Journal Reviewer / Editorial Roles  
 
 - **Asian Journal of Language, Literature and Culture Studies** (India / UK)  
