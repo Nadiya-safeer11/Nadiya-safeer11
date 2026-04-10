@@ -193,6 +193,7 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 - 🔬 [Web of Science](https://www.webofscience.com/wos/author/record/KRR-1828-2024)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadia-safeer-603866154/)  
 - 🏫 [NUML Faculty Profile](https://numl.edu.pk/faculty/13205)  
----
+
+https://jubilant-spoon-577wwq7wpw6f7g59.github.dev/ 
 
 <p align="center"><i>“Advancing linguistics, pedagogy, Sounds, Perception, and computation through evidence-based inquiry.”</i></p>
