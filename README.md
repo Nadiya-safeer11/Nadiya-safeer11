@@ -138,7 +138,9 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 ## 📂 Featured Projects  
 
 - 🔤 [**Phonetics Vowel Counter**](https://github.com/Nadiya-safeer11/phonetics-vowel-counter) — Python-based vowel counting tool for phonetic data.  
-- 🧠 [**MT Evaluation Sample**](https://github.com/Nadiya-safeer11/mt-eval-sample) — Example scripts and resources for machine translation evaluation.  
+- 🧠 [**MT Evaluation Sample**](https://github.com/Nadiya-safeer11/mt-eval-sample) — Example scripts and resources for machine translation evaluation.
+- [ISD tool] https://github.com/Nadiya-safeer11/isd-tool-fsp 
+
 
 --
 
@@ -193,7 +195,5 @@ A Lecturer of English Linguistics at the National University of Modern Languages
 - 🔬 [Web of Science](https://www.webofscience.com/wos/author/record/KRR-1828-2024)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadia-safeer-603866154/)  
 - 🏫 [NUML Faculty Profile](https://numl.edu.pk/faculty/13205)  
-
-https://jubilant-spoon-577wwq7wpw6f7g59.github.dev/ 
 
 <p align="center"><i>“Advancing linguistics, pedagogy, Sounds, Perception, and computation through evidence-based inquiry.”</i></p>
